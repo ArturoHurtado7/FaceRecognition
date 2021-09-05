@@ -15,3 +15,6 @@ Other packages: scipy, sklearn
 pip install -r requirements.txt
 
 ```
+
+# Jupiter Notebooks
+some concepts are presented in Jupyter Notebooks to better performance and understanding
